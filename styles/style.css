@@ -1,0 +1,430 @@
+body{
+    margin: 0%;
+}
+.containerppl{
+    display: flex;
+    background-image: url(/assets/images/banner-bk.jpg);
+    justify-content:space-evenly;
+    
+
+    
+    
+    
+
+}
+
+.div1{
+    height: 00px;
+
+}
+.logoLogo{
+    height: 80px;
+    
+
+
+}
+
+.header{
+    
+    height: 602px ;
+    margin-top: 40px;
+    
+    
+    
+}
+.h2titulo{
+    font-size: 80px;
+    font-weight: bold;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.par1{
+    font-size: 20px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 40px;
+
+
+}
+
+
+aside{
+    width: 300px;
+    color: #fff;
+    font-size: 15px;
+    font-family:arial;
+    margin-top: 40px;
+
+}
+.boton1{
+    color: #022149;
+    background-color: #07f0c9;
+    border-radius: 30px;
+    width: 180px;
+    height: 60px;
+    font-size: 18px;
+    
+    
+}
+.par2{
+    font-size: 40px;
+    width: 100%;
+    height: 100px;
+    color: #000000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+.section1{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: flex-end;
+    font-size: 30px;
+    margin-top: 30px;
+    color: rgb(47, 46, 46);
+}
+.section2{
+    display: flex;
+    justify-content: space-evenly;
+
+    
+
+}
+.imagenes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+.h3logo1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.h3logo2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h3logo3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2f2e2e;
+
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2f2e2e;
+}
+.section3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(165deg, white 50%,#04e399 50%);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+    
+    
+
+}
+.par3{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2f2e2e;
+
+}
+.parra2{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 690px;
+    
+}
+.par4{
+    font-size: 17px;
+    margin-bottom: 50px;
+
+}
+.boton2{
+    color:#fff;
+    background-color: #192440;
+    border-radius: 30px;
+    width: 180px;
+    height: 60px;
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+.pc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.section4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #04e399;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 550px;
+
+}
+.par5{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2f2e2e;
+    margin-bottom: 20px;
+    justify-content: flex-start;
+}
+.boton2{
+    color:#fff;
+    background-color: #192440;
+    border-radius: 30px;
+    width: 180px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.tablet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.precios{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: flex-end;
+    font-size: 70px;
+    margin-top: 20px;
+    color: rgb(47, 46, 46);
+
+}
+.categorias{
+
+    justify-content: space-evenly;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    align-items: center;
+}
+.boton3{
+    color:#192440;
+    background-color: #fefeff;
+    border-color: #192440;
+    border-radius: 30px;
+    width: 180px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.boton4{
+    color:#192440;
+    background-color: #07f0c9;
+    border-radius: 30px;
+    border-radius: none;
+    width: 180px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 40px;
+   text-align: center;
+
+}
+.categoria{
+    background-color:#ffffff;
+    margin-top: 20px;
+    height: 500px;
+    width: 400px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.categoria2{
+    background-color:#192440;
+    margin-top: 20px;
+    height: 500px;
+    width: 400px;
+    border-radius: 3px;
+    color: #fff;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border-radius:3px;
+    align-items: center;
+    
+
+    
+}
+.categoria3{
+    background-color:#ffffff;
+    margin-top: 20px;
+    height: 500px;
+    width: 400px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.premium{
+    font-size: 30px;
+    color: #fff;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.numValor{
+    display: flex;
+}
+.valor2{
+    font-size: 20px;
+    color: #fff;
+}
+.valor3{
+    font-size: 20px;
+}
+.descripcion2{
+    font-size: 22px;
+    color: #fff;
+    margin-top: 20px;
+
+}
+.logosFinal{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 170px;
+    height: 80px;
+    background-color: #b8b5b5;
+
+}
+.term{
+    display: flex;
+    background-image: url(/assets/images/contact-bk.jpg);
+    justify-content:space-evenly;
+}
+
+.formulario{
+    display: flex;
+    justify-content: space-evenly;
+    min-height: 90vh;
+    width: 300px;
+    border-color: #04e399;
+}
+
+.footer{
+    height:100px;
+    width:1600px;
+    background-color: #01032a;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.parfin{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#fff;
+    display: flex;
+    justify-content:flex-start
+
+}
+.logofin{
+    display: flex;
+}
+
+
+.span2Section5{
+    font-size: 60px;
+}
+
+.contactos{
+    color: #fff;
+    margin-top: 100px;
+}
+.parFin{
+    color: #fff;
+}
+.containerContactos{
+    display: flex;
+    gap: 15px;
+    color:#04e399;
+    font-family: Arial;
+    font-size: 10px;
+    margin-top: 80px;
+
+
+}
+.suNombre{
+    background: transparent;
+    border-color: #04e399;
+    border-radius: 3px;
+    height: 32px;
+    width: 200px;
+}
+
+.email{
+    background: transparent;
+    border-color: #04e399;
+    border-radius: 3px;
+    height: 32px;
+    width: 200px;
+}
+.h3Formulario{
+    font-size: 16px;
+    color:#04e399;
+
+}
+.nombre{
+    background: transparent;
+    border-color: #04e399;
+    border-radius: 3px;
+    height: 80px;
+    width: 420px;
+}
+.botonEnviar{
+        color:#192440;
+        background-color: #07f0c9;
+        border-radius: 30px;
+        border-radius: none;
+        width: 420px;
+        height: 40px;
+        font-size: 18px;
+        font-weight: bold;
+        margin-top: 40px;
+       text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.imgs img{
+height: 70px;
+}
+.imgs{
+    display: flex;
+    gap: 10px;
+}
+.pfooter{
+color: #fff;
+}
